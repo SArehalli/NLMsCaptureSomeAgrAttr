@@ -1,0 +1,6 @@
+[submodule "colorlessgreenRNNs"]
+	path = colorlessgreenRNNs
+	url = https://github.com/facebookresearch/colorlessgreenRNNs
+[submodule "rnng"]
+	path = rnng
+	url = https://github.com/clab/rnng
